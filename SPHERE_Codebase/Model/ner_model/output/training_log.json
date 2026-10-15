@@ -1,0 +1,6 @@
+{
+    "best_validation_f1": 0.8993288591,
+    "best_step": 0,
+    "selection_reason": "Highest validation F1 score across all epochs",
+    "config_path": "C:\\Users\\HP\\Desktop\\Projects\\SPHERE\\SPHERE_Codebase\\Model\\ner_model\\config.cfg"
+}

@@ -1,0 +1,46 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Frontend Build
+SPHERE_Codebase/Frontend/dist/
+SPHERE_Codebase/Frontend/.vite/
+
+# Backend Build (Maven/Gradle)
+SPHERE_Codebase/BackEnd/target/
+SPHERE_Codebase/BackEnd/build/
+*.class
+*.jar
+*.war
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.env
+
+# Large Datasets and Archives (>100MB)
+Dataset_Sustainability/texts.zip
+Dataset_Sustainability/texts_by_initiative/
+
+# Large Model Checkpoints (>100MB)
+*.safetensors
+*.bin
+**/transformer/model
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
