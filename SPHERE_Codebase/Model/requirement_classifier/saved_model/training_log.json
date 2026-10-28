@@ -1,8 +1,0 @@
-{
-    "best_validation_f1": 0.847926267281106,
-    "best_epoch": 3,
-    "total_epochs": 5,
-    "batch_size": 16,
-    "learning_rate": 2e-05,
-    "max_length": 128
-}

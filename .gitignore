@@ -1,3 +1,6 @@
+# Codebase (Kept locally, excluded from GitHub)
+SPHERE_Codebase/
+
 # Dependencies
 node_modules/
 .pnp
