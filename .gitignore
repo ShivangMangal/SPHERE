@@ -1,6 +1,11 @@
 # Codebase (Kept locally, excluded from GitHub)
 SPHERE_Codebase/
 
+# Local documents (Kept locally, excluded from GitHub)
+SPHERE.docx
+SPHERE_Context_Log.md
+SPHERE_References.docx
+
 # Dependencies
 node_modules/
 .pnp
